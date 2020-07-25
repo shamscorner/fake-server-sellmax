@@ -1,16 +1,19 @@
 {
-  "details": {
-    "callName": "John Wick",
-    "callYear": "1985",
-    "carBrand1": "Ford",
-    "carBrand2": "Mustang GT",
-    "isBodyDamage": true,
-    "isCarRunning": false,
-    "isCarJunk": true,
-    "callAmount": 51000,
-    "callCount": 15223,
-    "callPrice": 2000,
-    "phoneNumber": "5245252111",
-    "message": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-  }
+  "details": [
+    {
+      "id": 1,
+      "callName": "John Wick",
+      "callYear": "1985",
+      "carBrand1": "Ford",
+      "carBrand2": "Mustang GT",
+      "isBodyDamage": true,
+      "isCarRunning": false,
+      "isCarJunk": true,
+      "callAmount": 51000,
+      "callCount": 15223,
+      "callPrice": 2000,
+      "phoneNumber": "5245252111",
+      "message": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    }
+  ]
 }
